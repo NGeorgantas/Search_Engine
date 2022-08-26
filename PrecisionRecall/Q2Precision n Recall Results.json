@@ -1,0 +1,1 @@
+{"query": "incompatible types: JSONLoader cannot be converted to Loader<JSONObject>", "Precision": 0.023809523809523808, "Recall": 1.0, "F1": 0.046511627906976744}
